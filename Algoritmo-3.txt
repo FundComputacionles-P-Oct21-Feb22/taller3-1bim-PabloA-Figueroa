@@ -1,0 +1,11 @@
+3.Se desea desarrollar un algoritmo que permita mostrar la tabla de multiplicar de un número ingresado por el usuario; solo en el caso que el valor del número esté entre 2 y 6.
+
+1.Inicio
+2. Se pide al usuario ingresar un numero entre el 2 y 6 (2,3,4,5 y 6)
+3. Si el numero del usuario es el 2 se muestra su respectiva tabla de multiplicar en pantalla
+4. Si el numero del usuario es el 3 se muestra su respectiva tabla de multiplicar en pantalla
+5. Si el numero del usuario es el 4 se muestra su respectiva tabla de multiplicar en pantalla
+6. Si el numero del usuario es el 5 se muestra su respectiva tabla de multiplicar en pantalla
+7. Si el numero del usuario es el 6 se muestra su respectiva tabla de multiplicar en pantalla
+8. Si el numero del usuario es diferente del (2,3,4,5 y 6) se muestra en pantalla un mensaje de error "Error, solo numeros del 2 al 6"
+9. Fin
